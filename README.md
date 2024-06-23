@@ -79,7 +79,23 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+> Sprint 1
+Estratégias Propostas;
+Ferramenta ERP;
+Ferramenta MRP;
+Ferramenta Diagrama de Ishikawa; e
+Ferramenta DMAIC.
+
+> Sprint 2
+Ferramenta MRP 2;
+Ferramenta PIPEFY; e
+Ferramenta SIPOC.
+
+> Sprint 3
+Não entregue.
+
+> Sprint 4
+Ênfase e desenvolvimento de trabalho sobre a ferramenta MRP 2.
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
