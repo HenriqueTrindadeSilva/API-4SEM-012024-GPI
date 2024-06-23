@@ -1,8 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+O Projeto Integrado (API) baseado na metodologia ágil SCRUM, visa integrar teoria e prática educacional. Ele permite que os alunos apliquem conhecimentos teóricos em cenários reais, desenvolvendo competências técnicas e gerenciais essenciais, como planejamento, programação e controle de processos. Através de projetos práticos, os estudantes são desafiados a resolver problemas reais da indústria, promovendo inovação e melhorias contínuas nos processos produtivos. Além disso, o API fomenta o trabalho em equipe, preparando os alunos para o mercado de trabalho ao simular situações encontradas na indústria e promover o desenvolvimento de habilidades práticas e interpessoais.
 
 # Índice
 
