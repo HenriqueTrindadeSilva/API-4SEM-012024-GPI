@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
- <img src="[https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/INTERFACE%20GRUPO%20LOT%C3%9AS.jpg)"/>
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/INTERFACE%20GRUPO%20LOT%C3%9AS.jpg"/>
 </p>
 
 # Objetivo do Projeto
