@@ -134,13 +134,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+*Análise dos problemas;
+*Entendimento do Cenário;
+*Apresentação das ferramentas; e
+*Utilização das ferramentas SIPOC, ERP, DMAIC, Diagrama de Ishikawa e MRP.
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+*Ferramenta MRP 2;
+*Ferramenta PIPEFY;
+*Ferramenta SIPOC.
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+*Não apresentado.
       
 ## Sprint 4 - Operacionalização
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
