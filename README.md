@@ -179,8 +179,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner|Henrique Trindade| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner|Henrique Trindade| [![Linkedin Badge]()]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master|Lisandra Santos| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member|Eric Nassif| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member|Nathália Fonseca| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Eric Nassif| [![Linkedin Badge](https://www.linkedin.com/in/eric-nassif-445464178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Nathália Fonseca| [![Linkedin Badge](https://www.linkedin.com/in/nath%C3%A1lia-fonseca-1193b4178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member|Marcos Lucas| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
