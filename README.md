@@ -151,9 +151,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 * Aplicação do MRP 2;
 * Analise Inicial e Preparação:
 * Configuração do Sistema MRP 2;
-* Planejamento e Programação; e
-* Execução e Controle.
-
+* Planejamento e Programação; 
+* Execução e Controle;
+* Monitoramento e Melhoria Continua; e
+* Integração com Outros Sistemas.
+  
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
