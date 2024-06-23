@@ -98,7 +98,15 @@ Vídeo com a apresentação final da API do "semestre/ano"
 * Ênfase e desenvolvimento de trabalho sobre a ferramenta MRP 2.
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+* Microsoft Excel;
+* Microsoft Word;
+* Microsoft Power Point;
+* Microsoft Teams;
+* Github;
+* Canva;
+* Movie maker;
+* Canva; e
+* Google Meet.
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
