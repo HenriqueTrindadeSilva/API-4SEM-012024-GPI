@@ -80,9 +80,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Tecnologias Utilizadas
 ### Produto 
 > Sprint 1:
-
-•	Estratégias Propostas;
-•	Ferramenta ERP;
+*	[Estratégias Propostas;]
+*	[Ferramenta ERP]
 •	Ferramenta MRP;
 •	Ferramenta Diagrama de Ishikawa; e
 •	Ferramenta DMAIC.
