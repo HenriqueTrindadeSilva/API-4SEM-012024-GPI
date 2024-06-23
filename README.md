@@ -148,8 +148,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 * Não apresentado.
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+* Aplicação do MRP 2;
+* Analise Inicial e Preparação:
+* Configuração do Sistema MRP 2;
+* Planejamento e Programação; e
+* Execução e Controle.
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
