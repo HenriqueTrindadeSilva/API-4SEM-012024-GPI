@@ -46,7 +46,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>O objetivo principal deste trabalho é aprimorar o processo de Planejamento, Programação e Controle da Produção (PPCP) na empresa, adotando metodologias inovadoras e soluções viáveis dentro das possibilidades da empresa, além de apresentar ferramentas tecnológicas avançadas. Pretende-se, com isso, elevar a eficiência operacional, diminuir custos, aumentar a satisfação dos clientes e assegurar um alinhamento constante entre a capacidade produtiva e a demanda do mercado.
 
 # Funcionalidades e Demonstrações das Sprints
 
