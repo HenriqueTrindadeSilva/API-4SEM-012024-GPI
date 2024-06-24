@@ -107,7 +107,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 * Google Meet.
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+> O mindset digital da nossa equipe foi essencial para conduzir a empresa em sua jornada de transformação. Com foco na inovação, no uso estratégico de tecnologias avançadas e na promoção de uma cultura de inovação, conseguimos implementar soluções eficientes que otimizam processos e impulsionam o crescimento. Nossa abordagem inclui a análise de dados para tomadas de decisões informadas, a automação de tarefas rotineiras para aumentar a produtividade e a capacitação contínua dos colaboradores para que estejam sempre atualizados com as últimas tendências do mercado. Assim, proporcionamos à empresa uma vantagem competitiva significativa no cenário atual.
 
 # Cronograma das Sprints
 
