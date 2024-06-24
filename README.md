@@ -59,8 +59,8 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 3
 >Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
+<img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%203/imagem/SEM%20APRESENTA%C3%87%C3%83O.jpg"/>
+</p>
 
 ## Sprint 4
 >Colocar o vídeo da apresentação
