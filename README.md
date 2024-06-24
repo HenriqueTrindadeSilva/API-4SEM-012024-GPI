@@ -106,8 +106,12 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
+#### Cronograma das Sprints
+<p align="center">
+ <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/Cronograma%20Lotus_page-0001.jpg"/>
+</p>
+ <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/Cronograma%20Lotus_page-0002.jpg"/>
+</p>
 
 ## Backlog do produto
 <p align="center">
