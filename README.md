@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
-O Projeto Integrado (API) baseado na metodologia ágil SCRUM, visa integrar teoria e prática educacional. Ele permite que os alunos apliquem conhecimentos teóricos em cenários reais, desenvolvendo competências técnicas e gerenciais essenciais, como planejamento, programação e controle de processos. Através de projetos práticos, os estudantes são desafiados a resolver problemas reais da indústria, promovendo inovação e melhorias contínuas nos processos produtivos. Além disso, o API fomenta o trabalho em equipe, preparando os alunos para o mercado de trabalho ao simular situações encontradas na indústria e promover o desenvolvimento de habilidades práticas e interpessoais.
+> O Projeto Integrado (API) baseado na metodologia ágil SCRUM, visa integrar teoria e prática educacional. Ele permite que os alunos apliquem conhecimentos teóricos em cenários reais, desenvolvendo competências técnicas e gerenciais essenciais, como planejamento, programação e controle de processos. Através de projetos práticos, os estudantes são desafiados a resolver problemas reais da indústria, promovendo inovação e melhorias contínuas nos processos produtivos. Além disso, o API fomenta o trabalho em equipe, preparando os alunos para o mercado de trabalho ao simular situações encontradas na indústria e promover o desenvolvimento de habilidades práticas e interpessoais.
 
 # Índice
 
@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->O objetivo principal deste trabalho é aprimorar o processo de Planejamento, Programação e Controle da Produção (PPCP) na empresa, adotando metodologias inovadoras e soluções viáveis dentro das possibilidades da empresa, além de apresentar ferramentas tecnológicas avançadas. Pretende-se, com isso, elevar a eficiência operacional, diminuir custos, aumentar a satisfação dos clientes e assegurar um alinhamento constante entre a capacidade produtiva e a demanda do mercado.
+> O objetivo principal deste trabalho é aprimorar o processo de Planejamento, Programação e Controle da Produção (PPCP) na empresa, adotando metodologias inovadoras e soluções viáveis dentro das possibilidades da empresa, além de apresentar ferramentas tecnológicas avançadas. Pretende-se, com isso, elevar a eficiência operacional, diminuir custos, aumentar a satisfação dos clientes e assegurar um alinhamento constante entre a capacidade produtiva e a demanda do mercado.
 
 # Funcionalidades e Demonstrações das Sprints
 
