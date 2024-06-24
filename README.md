@@ -106,7 +106,7 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
 
 ## Backlog do produto
 <p align="center">
- <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/commit/67032394c46f1cff6ec865ae913510eaccd0da79"/>
+ <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/67032394c46f1cff6ec865ae913510eaccd0da79/Sprint%204/imagem/Backlog%20do%20Produto.jpg"/>
 </p>
 
 ## Sprint 1 - Concepção
