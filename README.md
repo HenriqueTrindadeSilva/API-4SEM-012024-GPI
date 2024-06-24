@@ -169,12 +169,12 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resolução de Problemas | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Inteligência Emocional | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
