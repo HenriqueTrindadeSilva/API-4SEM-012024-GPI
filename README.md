@@ -140,7 +140,7 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
 * Integração com Outros Sistemas.
   
 # Competências desenvolvidas
-> 1. Planejamento e Organização
+1. Planejamento e Organização
 2. Pesquisa e Análise de Informações
 3. Capacidade de Síntese e Clareza na Comunicação
 4. Habilidades Técnicas
@@ -154,12 +154,12 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proficiência em Softwares de Apresentação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Familiaridade com Sistemas ERP (Enterprise Resource Planning) | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Utilização de Ferramentas MRP (Material Requirements Planning) | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Aplicação de Metodologias de Análise e Melhoria de Processos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Automação de Processos com Pipefy | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise de Dados e Previsão de Demanda | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -169,12 +169,14 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Resolução de Problemas | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Inteligência Emocional | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Planejamento e Organização | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Capacidade de Síntese e Clareza na Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Trabalho em Equipe e Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Desenvolvimento de Soluções e Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Capacidade de Análise Crítica | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Flexibilidade e Adaptação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Habilidades de Apresentação e Oratória | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
