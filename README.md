@@ -110,8 +110,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
 <p align="center">
  <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/Backlog%20do%20Produto.jpg"/>
 </p>
