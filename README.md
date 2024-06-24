@@ -20,7 +20,7 @@ Somos a equipe de consultoria Lotus. Escolhemos como tema de desenvolvimento as 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 03/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 30/03/2024 | concluido| [Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/documento/Sprint%201%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
 |02| 20/04/2024| concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%202/documento/Sprint%202%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
 |03| 13/05/2024 | Não entregue|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%203/imagem/SEM%20APRESENTA%C3%87%C3%83O.jpg) | 
