@@ -113,7 +113,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
 <p align="center">
- <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/documento/L%C3%B3tus_Matriz_de_Responsabilidades_4GPI.xlsx"/>
+ <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/documento/Backlog%20do%20Produto.pdf"/>
 </p>
 
 ## Burndown
