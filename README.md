@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrador (API)
 
-> O Projeto Integrado (API) baseado na metodologia ágil SCRUM, visa integrar teoria e prática educacional. Ele permite que os alunos apliquem conhecimentos teóricos em cenários reais, desenvolvendo competências técnicas e gerenciais essenciais, como planejamento, programação e controle de processos. Através de projetos práticos, os estudantes são desafiados a resolver problemas reais da indústria, promovendo inovação e melhorias contínuas nos processos produtivos. Além disso, o API fomenta o trabalho em equipe, preparando os alunos para o mercado de trabalho ao simular situações encontradas na indústria e promover o desenvolvimento de habilidades práticas e interpessoais.
+> O Projeto Integrador (API) baseado na metodologia ágil SCRUM, visa integrar teoria e prática educacional. Ele permite que os alunos apliquem conhecimentos teóricos em cenários reais, desenvolvendo competências técnicas e gerenciais essenciais, como planejamento, programação e controle de processos. Através de projetos práticos, os estudantes são desafiados a resolver problemas reais da indústria, promovendo inovação e melhorias contínuas nos processos produtivos. Além disso, o API fomenta o trabalho em equipe, preparando os alunos para o mercado de trabalho ao simular situações encontradas na indústria e promover o desenvolvimento de habilidades práticas e interpessoais.
 
 # Índice
 
@@ -16,16 +16,16 @@
 * [Autores](#autores)
 
 # Projeto (API) 
-Somos a equipe de consultoria Lotus. Escolhemos como tema de desenvolvimento as ferramentas de planejamento e, neste semestre, estamos prestando consultoria para uma empresa do ramo.
+Somos a equipe de consultoria Lotus. Escolhemos como tema de desenvolvimento as ferramentas de planejamento e, neste semestre, estamos prestando consultoria para uma empresa do ramo, a Freudenberg.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 04/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 30/03/2024 | concluido| [Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/documento/Sprint%201%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
 |02| 20/04/2024| concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%202/documento/Sprint%202%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
-|03| Não entregue | concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%203/imagem/SEM%20APRESENTA%C3%87%C3%83O.jpg) | 
+|03| 13/05/2024 | Não entregue|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%203/imagem/SEM%20APRESENTA%C3%87%C3%83O.jpg) | 
 |04| 08/06/2024 | concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/documento/Sprint%204%20-%20GPI%204%C2%B0%20Semestre%20-%20Lotus.pptx) |
-|Feira de Soluções|24/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|24/06/2024 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
@@ -35,7 +35,6 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
  <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/INTERFACE%20GRUPO%20LOT%C3%9AS.jpg"/>
@@ -58,13 +57,6 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 4
 [![SPRINT 4](https://img.youtube.com/vi/yaH6vGDoal4/0.jpg)](https://www.youtube.com/watch?v=yaH6vGDoal4)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Tecnologias Utilizadas
@@ -94,8 +86,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 * Microsoft Teams;
 * Github;
 * Canva;
-* Movie maker;
-* Canva; e
+* CapCut;
 * Google Meet.
   
 ### Mindset Digital
