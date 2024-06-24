@@ -21,10 +21,10 @@ Somos a equipe de consultoria Lotus. Escolhemos como tema de desenvolvimento as 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 30/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 20/04/2024| concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 30/03/2024 | concluido| [Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%201/documento/Sprint%201%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
+|02| 20/04/2024| concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%202/documento/Sprint%202%20-%20Lotus%20-%204%C2%B0%20Semestre.pptx) | 
 |03| Não entregue | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 08/06/2024 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|04| 08/06/2024 | concluido|[Ver Relatório](https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/documento/Sprint%204%20-%20GPI%204%C2%B0%20Semestre%20-%20Lotus.pptx) |
 |Feira de Soluções|24/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
