@@ -16,7 +16,7 @@
 * [Autores](#autores)
 
 # Projeto (API) 
-Somos a equipe de consultoria Lotus. Escolhemos como tema de desenvolvimento as ferramentas de planejamento e, neste semestre, estamos prestando consultoria para uma empresa do ramo, a Freudenberg.
+Somos a equipe de consultoria Lotus. Escolhemos as ferramentas de planejamento como tema de desenvolvimento para a consultoria à empresa Freudenberg."
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
