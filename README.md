@@ -109,13 +109,6 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
  <img src="https://github.com/HenriqueTrindadeSilva/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/Backlog%20do%20Produto.jpg"/>
 </p>
 
-## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
-
 ## Sprint 1 - Concepção
 * Análise dos problemas;
 * Entendimento do Cenário;
