@@ -140,7 +140,13 @@ Abaixo encontra-se o cronograma do projeto, onde é possível localizar os perí
 * Integração com Outros Sistemas.
   
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> 1. Planejamento e Organização
+2. Pesquisa e Análise de Informações
+3. Capacidade de Síntese e Clareza na Comunicação
+4. Habilidades Técnicas
+5. Trabalho em Equipe e Colaboração
+6. Desenvolvimento de Soluções e Criatividade
+7. Gestão de Projetos
 
 ## Hard Skill (saber tecnológico)
 <details>
